@@ -46,3 +46,11 @@ PROPOSED SOLUTIONS
 
 At the end of the exploration, it was discovered that the type of industry the startup is in affects the investment. We realized that more startups in Fintech and Edutech received significant amounts of funding as compared to startups in logistics and food and beverages. 
 We also came up with the conclusion that the location of the startup greatly affected the funding it received. This is evident in the fact that startups in the higly dense cities such as Bangalore and Mumbai received the highest number of fundings. There was also a strong correlation between the age of the startup and the funding received where startups founded earlier received more funding thand the most recent ones. 
+
+## Link to Article on Medium
+
+https://medium.com/@samuelerzahyankey/the-investors-dilemma-a-case-of-indian-startups-and-funding-9f512fbfc1fe
+
+
+## Author 
+Samuel Erzah - Yankey
