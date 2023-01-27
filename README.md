@@ -33,7 +33,7 @@ MAJOR ISSUES
 6. Inconsistent column names
 
 
-SOLUTIONS
+PROPOSED SOLUTIONS
 
 1. Change to appropriate datatype
 2. Replace empty rows with missing values and dropna values or fill with a mean or median
@@ -41,3 +41,6 @@ SOLUTIONS
 4. Delete those rows or fill with one value
 5. Rearrange values correctly
 6. Change column nam
+
+## Insights
+
